@@ -28,7 +28,7 @@ const botOpts = {
   polling: true
 };
 
-const bot = new TelegramBot(process.env.TOKEN, botOpts);
+const bot = new TelegramBot(1974781091:AAGNnhgSAMg6IL47DPqCsjDTNN4_KkEJaM8, botOpts);
 
 const twitter = new Twitt({
   consumer_key: process.env.CONSUMER_KEY,
